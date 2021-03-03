@@ -2,7 +2,12 @@
 	"name": "mnc-flutter-code-standard-vsext",
 	"displayName": "MNC Flutter code standard",
 	"description": "Implementation of flutter code standard for VSCode",
-	"version": "0.1.0",
+	"version": "0.2.0",
+	"publisher": "MNCInnovationCenter",
+	"icon": "assets/logo.png",
+	"author": {
+		"name": "MNC Innovation Center"
+	},
 	"engines": {
 		"vscode": "^1.40.0"
 	},
@@ -14,10 +19,9 @@
 		"onCommand:mnc-flutter-code-standard-vsext.genwidget"
 	],
 	"main": "./dist/extension.js",
-	"icon": "https://firebasestorage.googleapis.com/v0/b/mnc-apps-libs.appspot.com/o/logo%2Flogo.png?alt=media",
 	"license": "MIT",
 	"repository": {
-		"url": "https://mnc-repo.mncdigital.com/mobiledevadmin/mnc-flutter-code-standard-vsext"
+		"url": "https://github.com/mncinnocent/mnc-flutter-code-standard-vsext"
 	},
 	"contributes": {
 		"commands": [

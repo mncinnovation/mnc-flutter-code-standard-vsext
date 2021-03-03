@@ -15,10 +15,10 @@ Extention are created to the way to :
 - Widget File Creator
 
 ## Module Generator
-![modulegenerator](assets/create-module-gif.gif)
+![modulegenerator](https://mnc-repo.mncdigital.com/mobiledevadmin/mnc-flutter-code-standard-vsext/raw/master/assets/create-module-gif.gif)
 
 ### Module 
-![arch](assets/module_arch.jpg)
+![arch](https://mnc-repo.mncdigital.com/mobiledevadmin/mnc-flutter-code-standard-vsext/raw/master/assets/module_arch.jpg)
 ### Controller
 The Controller module represents the logic of data flow within the application. It is the middle layer between the Repo and Screen layers. The Controller is responsible for updating the pipe when the data changes.
 ### Data
